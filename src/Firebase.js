@@ -6,14 +6,15 @@ import 'firebase/compat/storage';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDX7l9gqPXAe-7TtEW1bQvZMPlzVwD2aI8",
-  authDomain: "solruf-b23fd.firebaseapp.com",
-  projectId: "solruf-b23fd",
-  storageBucket: "solruf-b23fd.appspot.com",
-  messagingSenderId: "398827980884",
-  appId: "1:398827980884:web:f1ed49c2990c36934305c1",
-  measurementId: "G-NPN0YBF6T6"
+  apiKey: "AIzaSyDbHVEQPtoneUSvtvHHmGG1jr2C56-jRww",
+  authDomain: "mathongo-ec845.firebaseapp.com",
+  projectId: "mathongo-ec845",
+  storageBucket: "mathongo-ec845.appspot.com",
+  messagingSenderId: "708152590266",
+  appId: "1:708152590266:web:c3c714a6d461b11942a783",
+  measurementId: "G-NM8V7YJJXH"
 };
+
 
  if(!firebase.apps.length) firebase.initializeApp(firebaseConfig)
 
